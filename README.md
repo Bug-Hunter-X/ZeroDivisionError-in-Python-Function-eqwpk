@@ -1,0 +1,1 @@
+This repository contains a Python function that demonstrates a common error: ZeroDivisionError.  The function `my_function` attempts to divide by zero when the input is 0.  The solution shows how to handle this error using exception handling. The file `bug.py` contains the erroneous code, and `bugSolution.py` provides the corrected version.
